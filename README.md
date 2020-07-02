@@ -1,1 +1,1 @@
-A library for building neural networks from the ground up.
+A repository of some deep learning notebooks.
