@@ -1,1 +1,1 @@
-A repository of some deep learning notebooks.
+A repository of deep learning experiemnts.
