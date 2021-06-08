@@ -23,3 +23,6 @@ __pycache__/
 
 # Build info created from `pip install -e <package>`
  *.egg-info
+
+# Ignore logs
+wandb/
