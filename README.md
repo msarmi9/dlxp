@@ -1,1 +1,1 @@
-A repository of deep learning experiemnts.
+A repository of deep learning experiments.
